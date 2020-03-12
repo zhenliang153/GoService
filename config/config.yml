@@ -1,0 +1,11 @@
+connections:
+  mysql:
+    service:
+      host: 192.168.1.154
+      port: 3306
+      user: root
+      pass: Test2020@
+      database: service
+      charset: utf8
+params:
+  port: 12345
